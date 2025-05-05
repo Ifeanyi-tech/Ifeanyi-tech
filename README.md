@@ -1,4 +1,4 @@
-# Hi there, I’m Ifeanyi Cynthia! 👋
+# Hi there, I’m Ifeanyi Cynthia!👋🏽
  - I'm a Front-End Developer & UI/UX Designer
  - I’m currently learning HTML, CSS, and Javascript.
  - 💞️ I love clean design, simple interfaces, and creating meaningful user experiences.
