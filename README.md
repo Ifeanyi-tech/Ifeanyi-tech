@@ -12,6 +12,6 @@
 - [Email] (mailto:ifeanyicynthian@gmail.com)
 
 
-[<!--- Thanks for stopping by! 👍🏽
+Thanks for stopping by! 👍🏽
 
 
