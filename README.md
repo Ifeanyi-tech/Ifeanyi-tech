@@ -16,7 +16,7 @@
 
 ### 🎨 My Portfolio
 <div align="center">
-<p> Still working on them 💼, but in the mean time you can check out my designs (https://sites.google.com/view/ifeanyinwachie/portfolio)] </p>
+<p> Still working on Dev, but in the mean time you can check out my UI/UX designs (https://sites.google.com/view/ifeanyinwachie/portfolio)] </p>
 
   
 ### Let's Connect: 
